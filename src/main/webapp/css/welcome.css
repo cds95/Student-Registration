@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Helvetica;
+}
+h3 {
+	text-align: center;
+}
+
+.upper {
+	border-style: solid;
+	float: right;
+	margin-right: 150px
+}
+
+.upper h4 {
+	margin-top: 0px;
+	background: #4CAF50;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.info {
+	margin-left: 150px;
+}
+
+.info table {
+	border-style: solid;
+	
+}
+
+th {
+	background:  #4CAF50;
+}
+
+table, td, th {
+    border: 1px solid black;
+}

@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Helvetica;
+}
+
+h3 {
+	text-align: center;
+}
+
+.upper {
+	border-style: solid;
+	float: right;
+	margin-right: 150px
+}
+
+.upper h4 {
+	margin: 0px 0px 0px 0px;
+	background: #4CAF50;
+	text-align: center;
+}
+
+.courseHeading {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+ul {
+	margin-top: 0px;
+}
+
+table {
+	margin-top: 10px;
+}
+
+.information {
+	margin-left: 100px;
+}
+
+table, td, th {
+    border: 1px solid black;
+}

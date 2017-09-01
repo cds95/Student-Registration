@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Helvetica;	
+}
+
+h3{
+	text-align: center;
+}
+
+nav{
+	display:block;
+	margin-top: 0px;
+}
+
+.upper {
+	border-style: solid;
+	float: right;
+	margin-right: 100px
+}
+
+.upper h4 {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-botton: 0px;
+	background: #4CAF50;
+	text-align: center;
+}
+
+#credits {
+	display:block;
+	margin-top: 10px;
+}
+
+th {
+	background: #4CAF50;
+}
+
+h4 {
+	margin-left: 50px;
+	margin-bottom: 0px;
+}
+
+.edits form {
+	color: black;
+}
+
+#courses {
+	margin-left: 30px;
+}
+
+#search{
+	float: right;
+	margin-right: 40px;
+	margin-top: 0px;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
